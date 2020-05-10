@@ -4,7 +4,6 @@ from distutils.core import setup
 import re
 
 long_description = """
-Just a comment
 A Pure-Python library built as a PDF toolkit.  It is capable of:
 
 - extracting document information (title, author, ...)
